@@ -1,5 +1,3 @@
-# Maze-Solving-with-Mycobot-Pro-600
-
 # Robotic Arm Maze Solver with Digital Twin and Physical Execution
 
 ## Project Overview
