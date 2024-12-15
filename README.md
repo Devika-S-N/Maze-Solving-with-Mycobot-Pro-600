@@ -41,8 +41,8 @@ This project integrates robotics, computer vision, and path planning to enable a
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone repository_url](https://github.com/Devika-S-N/Maze-Solving-with-Mycobot-Pro-600
+   cd Maze-Solving-with-Mycobot-Pro-600
    ```
 2. Install Python dependencies:
    ```bash
